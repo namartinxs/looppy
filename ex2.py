@@ -6,4 +6,4 @@ while (user == pass_word):
     user = input("Insira seu nome ")
     pass_word = input("Insira a senha ")
 
-print("Acesso autorizado")
+print("Acesso Autorizado")
